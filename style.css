@@ -1,4 +1,11 @@
 body {
-    background-color: yellow;
+    background-color: black;
+    color: yellow;
+}
+a {
     color: red;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
 }

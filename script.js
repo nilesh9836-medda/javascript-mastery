@@ -1,3 +1,3 @@
 function ShowAlert(){
-    window.alert("Insert a proper background image immediately!!!");
+    window.alert("Recommend me a proper background image immediately!!!");
 }
