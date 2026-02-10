@@ -6,7 +6,7 @@
 
 - **A. Introduction to JavaScript**
 
-    1. [First JavaScript Program]()
+    1. [First JavaScript Program](./src/js/01_helloWorld.js)
 
     2. [Internal JavaScript (Inside &lt;head&gt; Tag)]()
 
