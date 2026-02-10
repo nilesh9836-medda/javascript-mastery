@@ -8,7 +8,7 @@
 
     1. [First JavaScript Program](./src/js/01_helloWorld.js)
 
-    2. [Internal JavaScript (Inside &lt;head&gt; Tag)]()
+    2. [Internal JavaScript (Inside &lt;head&gt; Tag)](./src/html/01_internalHead.html)
 
     3. [Internal JavaScript (Inside &lt;body&gt; Tag)]()
 
