@@ -10,6 +10,6 @@
 
     2. [Internal JavaScript (Inside &lt;head&gt; Tag)](./src/html/01_internalHead.html)
 
-    3. [Internal JavaScript (Inside &lt;body&gt; Tag)]()
+    3. [Internal JavaScript (Inside &lt;body&gt; Tag)](./src/html/02_internalBody.html)
 
     4. [External JavaScript]()
