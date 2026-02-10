@@ -12,4 +12,4 @@
 
     3. [Internal JavaScript (Inside &lt;body&gt; Tag)](./src/html/02_internalBody.html)
 
-    4. [External JavaScript]()
+    4. [External JavaScript](./src/html/03_externalJS.html)
