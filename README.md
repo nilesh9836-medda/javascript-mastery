@@ -1,4 +1,4 @@
-# <img width="45" height="45" alt="js-logo" src="https://github.com/user-attachments/assets/24f57b20-75a1-4ef0-931f-8e4abaa11b27" />JavaScript Mastering
+# JavaScript Mastering
 
 ## 📚 Contents
 
@@ -13,3 +13,11 @@
     3. [Internal JavaScript (Inside &lt;body&gt; Tag)](./src/html/02_internalBody.html)
 
     4. [External JavaScript](./src/html/03_externalJS.html)
+
+- **B. Comments, Variables and Datatypes in JavaScript**
+
+    1. [Variables and Comments in JavaScript](./src/js/03_variablesComment.js)
+
+    2. [Primitive Datatypes in JavaScript](./src/js/04_primitiveDatatypes.js)
+    3. [Non-Primitive Datatypes in JavaScript](./src/js/05_nonPrimitive.js)
+    4. [Understanding Common Expressions](./src/js/06_commonExpressions.js)
