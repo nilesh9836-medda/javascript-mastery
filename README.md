@@ -1,4 +1,4 @@
-# ![js](./assets/images/java-script.png)JavaScript Mastering
+# ![js](./assets/images/js-file%20(1).png)JavaScript Mastering
 
 ## 📚 Contents
 
