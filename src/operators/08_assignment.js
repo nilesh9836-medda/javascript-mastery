@@ -1,0 +1,12 @@
+var a = 7;
+console.log(a);
+a += 3;
+console.log(a);
+a -= 3;
+console.log(a);
+a *= 3;
+console.log(a);
+a /= 3;
+console.log(a);
+a %= 3;
+console.log(a);
