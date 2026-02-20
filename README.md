@@ -11,3 +11,7 @@
 3. **[Operators in JavaScript](./src/operators/README.md)**
 
 4. **[Control Statements in JavaScript](./src/control-statements/README.md)**
+
+### Array & String
+
+1. **[JavaScript Arrays](./src/array/README.md)**
